@@ -1,8 +1,0 @@
-/* Font Body and Heading */ 
-@font-face{font-family: 'Noto Sans';font-style: italic;font-weight: 400;font-display: swap;src: url(/main/o-0OIpQlx3QUlC5A4PNr4ARMQ_m87A.woff2) format('woff2'), url(/main/o-0OIpQlx3QUlC5A4PNr4DRG.woff) format('woff')} 
-@font-face{font-family: 'Noto Sans';font-style: italic;font-weight: 700;font-display: swap;src: url(/main/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW0.woff2) format('woff2'), url(/main/o-0TIpQlx3QUlC5A4PNr4Az5ZtyH.woff) format('woff')}
-@font-face{font-family: 'Noto Sans';font-style: normal;font-weight: 400;font-display: swap;src: url(/main/o-0IIpQlx3QUlC5A4PNr5TRA.woff2) format('woff2'), url(/main/o-0IIpQlx3QUlC5A4PNb4Q.woff) format('woff')} 
-@font-face{font-family: 'Noto Sans';font-style: normal;font-weight: 700;font-display: swap;src: url(/main/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2) format('woff2'), url(/main/o-0NIpQlx3QUlC5A4PNjXhFlYA.woff) format('woff')}
-
-/* Source Code Font */
-@font-face {font-family: 'Fira Mono';font-style: normal;font-weight: 400;font-display: swap;src: local('Fira Mono Regular'), local('FiraMono-Regular'), url(/main/N0bX2SlFPv1weGeLZDtQIg.woff) format('woff'), url(/main/N0bX2SlFPv1weGeLZDtgJv7S.woff2) format('woff2')}
